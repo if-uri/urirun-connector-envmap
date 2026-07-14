@@ -1,0 +1,2 @@
+[urirun.bindings]
+envmap = urirun_connector_envmap.core:urirun_bindings

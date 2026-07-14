@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: urirun-connector-envmap
+Version: 0.1.0
+Summary: Mapa środowiska w ograniczonej pamięci: fingerprints+snapshoty dla reverse/verify przy skali GB (envmap://).
+Author: Tom Sapletta
+License: Apache-2.0
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: urirun>=0.4.14
+
+envmap:// — mapa cech środowiska (fingerprint+snapshot) dla reverse/verify przy skali GB w bounded memory.
